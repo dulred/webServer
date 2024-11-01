@@ -1,0 +1,4 @@
+D:/dulred/dev/source/c++/vscode/webServer/build/CMakeFiles/http_server_async.dir
+D:/dulred/dev/source/c++/vscode/webServer/build/CMakeFiles/runTests.dir
+D:/dulred/dev/source/c++/vscode/webServer/build/CMakeFiles/edit_cache.dir
+D:/dulred/dev/source/c++/vscode/webServer/build/CMakeFiles/rebuild_cache.dir

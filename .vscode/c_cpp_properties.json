@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\dulred\\dev\\3rdlibs\\done\\boost_1_86_0\\include\\boost-1_86",
+                "D:\\dulred\\dev\\3rdlibs\\done\\json-3.11.3\\include",
+                "D:\\dulred\\dev\\3rdlibs\\done\\googletest-release-1.12.1\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "D:/dulred/dev/software/Qt6.5.3/Tools/mingw1120_64/bin/g++.exe",
+            "cStandard": "c17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
